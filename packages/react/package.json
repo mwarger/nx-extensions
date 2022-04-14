@@ -14,7 +14,8 @@
   "dependencies": {
     "@nxext/vite": "^13.2.4",
     "@nrwl/devkit": "^13.9.0",
-    "@nrwl/react": "^13.7.0"
+    "@nrwl/react": "^13.7.0",
+    "@nxext/vitest": "^13.0.2"
   },
   "files": [
     "client.d.ts",
